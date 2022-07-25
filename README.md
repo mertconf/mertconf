@@ -8,7 +8,7 @@
 
 <h3>🌟 Sosyal medya hesaplarım!</h3>
 
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/zh25h9bwq74ohhvswy1bw2kru?si=b0a7d950c91346dc)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/zh25h9bwq74ohhvswy1bw2kru?si=b0a7d950c91346dc)
 [![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/channel/UCgLMhMviJdqvIeofI7vDVzg)
 [![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/mertconf)
 
