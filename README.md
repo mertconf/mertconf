@@ -23,6 +23,11 @@
 <img src="https://img.shields.io/badge/CSS%20-111111.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
 </div>
 
+<h3>Github Stats<h3>
+
+  <div><img src="https://komarev.com/ghpvc/?username=mertconf&&label=PROFILE+VIEWS&color=grey"/></div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mertconf&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=FFFFFF&text_color=9f9f9f&icon_color=FFFFFF" width="%100" height="150px">
+
 <div >
 <h3>Github Stat</h3>
    <a href="https://github.com/mertconf" target="_blank">
