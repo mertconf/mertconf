@@ -4,7 +4,7 @@
 <h3>🎉 Discord Hesabım: Wasty#6416</h3>
 
 - Kendimden kısaca bahsedeyim. Ben utku namı değer [mertconf](https://github.com/mertconf) 13 yaşındayım,öğrenmeye,gelişmeye her zaman açık birisiyim.
-1.5 yıla yakındır yazılım ile ilgileniyorum. [Bot Club](botclub.net) projeme göz atmayı unutma! Her zaman da kendimi geliştirmeye devam edeceğim!
+1.5 yıla yakındır yazılım ile ilgileniyorum. [SRC Industry](https://discord.gg/industry) projeme göz atmayı unutma! Her zaman da kendimi geliştirmeye devam edeceğim!
 
 <h3>🌟 Sosyal medya hesaplarım!</h3>
 
