@@ -12,6 +12,18 @@
 [![Discord Badge](https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white)](https://www.youtube.com/channel/UCgLMhMviJdqvIeofI7vDVzg)
 [![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/mertconf)
 
+<div align="center">
+<h3>Languages and Tools</h3>
+<a <img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"> </a>
+
+<img src="https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Python%20-111111.svg?&style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Discord.Js%20-111111.svg?&style=for-the-badge&logo=Discord.Js&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code%20-111111.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white>">
+<img src="https://img.shields.io/badge/HTML5%20-111111.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS%20-111111.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
+</div>
+
 <div >
 <h3>Github Stat</h3>
    <a href="https://github.com/BetaWile" target="_blank">
