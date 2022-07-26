@@ -1,7 +1,7 @@
 [![mertconf](https://cdn.discordapp.com/attachments/831785309770350622/1001155863781851266/wasty.png)](https://github.com/mertconf)
 
 ## Merhaba! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<h3>🎉 Discord Hesabım: [Wasty#6416](https://discord.com/users/816276701843292231)</h3>
+<h3>🎉 Discord Hesabım: [![Wasty#6416](https://discord.com/users/816276701843292231)</h3>
 
 - Kendimden kısaca bahsedeyim. Ben mert namı değer [mertconf](https://github.com/mertconf) 13 yaşındayım, öğrenmeye, gelişmeye her zaman açık birisiyim.
 1.5 yıla yakındır bot ile ilgileniyorum. [SRC Industry](https://discord.gg/industry) projeme göz atmayı unutma! Her zaman da kendimi geliştirmeye devam edeceğim!
