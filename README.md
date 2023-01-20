@@ -1,5 +1,3 @@
-[![mertconf](https://cdn.discordapp.com/attachments/831785309770350622/1001155863781851266/wasty.png)](https://github.com/mertconf)
-
 ## Merhaba! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <h3>:tada: Discord Hesabım: Wasty#6416</h3>
 
@@ -32,7 +30,7 @@
 
 <div align="center">
 <h3>Discord Activity</h3>
-   <a href="https://discord.com/users/816276701843292231" target="_blank">
-      <img src="https://lanyard-profile-readme.vercel.app/api/816276701843292231?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
+   <a href="https://discord.com/users/1066010533184159785" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/1066010533184159785?bg=0d1117&animated=false&hideDiscrim=false&borderRadius=31px">
    </a>
 </div>
