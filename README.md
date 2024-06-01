@@ -1,6 +1,6 @@
 # 💫 Hakkımda:
-- Kendimden kısaca bahsedeyim. Ben mert namı değer [mertconf](https://github.com/mertconf) 13 yaşındayım, öğrenmeye, gelişmeye her zaman açık birisiyim.
-1.5 yıla yakındır bot ile ilgileniyorum. Ayrıca [BetterDiscord](https://betterdiscord.app) ' te plugin, tema v.s paylaşıyorum! Her zaman da kendimi geliştirmeye devam edeceğim!
+- Kendimden kısaca bahsedeyim. Ben mert namı değer [mertconf](https://github.com/mertconf) 15 yaşındayım, öğrenmeye, gelişmeye her zaman açık birisiyim.
+[BYK Logistics™](https://discord.com/byklogistics) Chief Operations Officer yetkilisiyim.
 
 
 ## 🌐 Sosyal Medya:
