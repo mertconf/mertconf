@@ -1,5 +1,5 @@
 # 💫 Hakkımda:
-- Kendimden kısaca bahsedeyim. Ben mert namı değer [mertconf](https://github.com/mertconf) 15 yaşındayım, öğrenmeye, gelişmeye her zaman açık birisiyim.
+- Kendimden kısaca bahsedeyim. Ben mert namı değer [Lordestereol](https://github.com/mertconf) 16 yaşındayım, öğrenmeye, gelişmeye her zaman açık birisiyim.
 [BYK Logistics™](https://discord.com/byklogistics) Chief Operations Officer yetkilisiyim.
 
 
